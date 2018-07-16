@@ -1,0 +1,7 @@
+{
+  "name": "suspenders_playing",
+  "private": true,
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
+}
